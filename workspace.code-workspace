@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../web development/transition + info card"
+		},
+		{
+			"path": "../web development/three dots landing page"
+		},
+		{
+			"path": "../web development/SPAKS energy drink"
+		},
+		{
+			"path": "../web development/David's portfolio site"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SPAKS energy drink"
+	}
+}
